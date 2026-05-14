@@ -216,7 +216,7 @@ For issues, questions, or feature requests, please open an issue on GitHub.
 
 ## Authors
 
-- CMMC Team
+- Tarique Khemraj
 
 ## Changelog
 
